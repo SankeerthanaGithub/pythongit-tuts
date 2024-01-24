@@ -1,0 +1,4 @@
+Before ascending sort
+[45, 6, 7, 34, 67]
+After  ascending sort & desecnding sort
+[6, 7, 34, 45, 67]
